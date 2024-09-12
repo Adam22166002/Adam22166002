@@ -3,7 +3,7 @@ I am very interested in Frontend Developer and Computer System development. I am
 Feel free to check out my projects and connect with me! ❤️
 
 ## Contact me:
-- LinkedIn: (https://www.linkedin.com/in/adam-8107ba307/)
-- [Portfolio](#)  <!-- Update the link to your portfolio -->
-- [Instagram](https://www.instagram.com/_adam.dev?igsh=MTBzaGRubGtlaGZ1)
-- [Tiktok](https://www.tiktok.com/@_adam.dev?_t=8pZT9if8oFN&_r=1)
+- LinkedIn: https://www.linkedin.com/in/adam-8107ba307/
+- Portfolio: #  <!-- Update the link to your portfolio -->
+- Instagram: https://www.instagram.com/_adam.dev?igsh=MTBzaGRubGtlaGZ1
+- Tiktok: https://www.tiktok.com/@_adam.dev?_t=8pZT9if8oFN&_r=1
